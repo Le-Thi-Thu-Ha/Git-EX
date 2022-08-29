@@ -42,3 +42,15 @@ footer {
   background-color: green;
   line-height: 15vh;
 }
+
+button {
+  background-color: black;
+  font-size: 3rem;
+  border-radius: 4px;
+  margin: 2rem auto;
+}
+button a {
+  padding: 20px auto;
+  text-decoration: none;
+  color: white;
+}
