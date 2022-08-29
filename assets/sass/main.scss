@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  line-height: 1.5;
+  font-family: Arial, Helvetica, sans-serif;
+  text-rendering: optimizeSpeed;
+}
+
+body {
+  font-size: 1.6rem;
+  min-height: 100vh;
+  color: rgba(22, 24, 35, 1);
+  direction: ltr;
+  overscroll-behavior: contain;
+  -webkit-font-smoothing: antialiased;
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+}
+
+header{
+    height: 25vh;
+    background-color: red;
+    line-height: 30vh;
+}
+
+main{
+    height: 60vh;
+    background-color: yellow;
+    line-height: 60vh;
+}
+
+footer{
+    height: 15vh;
+    background-color: green;
+    line-height: 15vh;
+}
